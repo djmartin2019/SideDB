@@ -1,7 +1,5 @@
 # SideDB: Your Lightweight, Local Database for Side Projects
 
-![SideDB Logo](logo.png)
-
 ## Introduction
 
 Welcome to **SideDB**, a lightweight, local database designed to make your side projects come to life. Written in C, SideDB aims to provide a fast, efficient, and user-friendly way to store and manage data right on your local machine.
